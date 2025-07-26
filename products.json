@@ -1,0 +1,413 @@
+[
+  // Proteins
+  {
+    "name": "Frozen Chicken thighs",
+    "description": "Bone-in or boneless, single serve portion.",
+    "category": "Proteins",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Ground beef",
+    "description": "Single serve portion.",
+    "category": "Proteins",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Ground turkey",
+    "description": "Single serve portion.",
+    "category": "Proteins",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Frozen Chicken drumsticks",
+    "description": "Single serve portion.",
+    "category": "Proteins",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Turkey sausage",
+    "description": "Single serve portion.",
+    "category": "Proteins",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Frozen Eggs",
+    "description": "Single serve portion.",
+    "category": "Proteins",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Frozen Tofu",
+    "description": "Single serve portion.",
+    "category": "Proteins",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Frozen Dry black beans",
+    "description": "Single serve portion.",
+    "category": "Proteins",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Dry pinto beans",
+    "description": "Single serve portion.",
+    "category": "Proteins",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Cod fish sticks",
+    "description": "Single serve portion.",
+    "category": "Proteins",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Frozen Crab cakes",
+    "description": "Single serve portion.",
+    "category": "Proteins",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Frozen Beef burger patty",
+    "description": "Single serve portion.",
+    "category": "Proteins",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Turkey burger patty",
+    "description": "Single serve portion.",
+    "category": "Proteins",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+
+  // Grains, Starches & Flours
+  {
+    "name": "Frozen White rice",
+    "description": "Single serve portion.",
+    "category": "Grains, Starches & Flours",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Brown rice",
+    "description": "Single serve portion.",
+    "category": "Grains, Starches & Flours",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Frozen Elbow macaroni",
+    "description": "Single serve portion.",
+    "category": "Grains, Starches & Flours",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Spaghetti noodles",
+    "description": "Single serve portion.",
+    "category": "Grains, Starches & Flours",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "All-purpose flour",
+    "description": "Single serve portion.",
+    "category": "Grains, Starches & Flours",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Grits",
+    "description": "Single serve portion.",
+    "category": "Grains, Starches & Flours",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Rolled oats",
+    "description": "Single serve portion.",
+    "category": "Grains, Starches & Flours",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Frozen Instant mashed potatoes",
+    "description": "Single serve portion.",
+    "category": "Grains, Starches & Flours",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+
+  // Vegetables
+  {
+    "name": "Frozen Onions",
+    "description": "Single serve portion.",
+    "category": "Vegetables",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Garlic",
+    "description": "Single serve portion.",
+    "category": "Vegetables",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Carrots",
+    "description": "Single serve portion.",
+    "category": "Vegetables",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Green beans",
+    "description": "Single serve portion.",
+    "category": "Vegetables",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Corn kernels",
+    "description": "Single serve portion.",
+    "category": "Vegetables",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Spinach",
+    "description": "Single serve portion.",
+    "category": "Vegetables",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Frozen Bell peppers",
+    "description": "Single serve portion.",
+    "category": "Vegetables",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Cabbage",
+    "description": "Single serve portion.",
+    "category": "Vegetables",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Frozen Collard greens",
+    "description": "Single serve portion.",
+    "category": "Vegetables",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Frozen Tomatoes",
+    "description": "Single serve portion.",
+    "category": "Vegetables",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+
+  // Pantry Staples
+  {
+    "name": "Whole milk or evaporated milk",
+    "description": "Single serve portion.",
+    "category": "Pantry Staples",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Butter or margarine",
+    "description": "Single serve portion.",
+    "category": "Pantry Staples",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Vegetable oil",
+    "description": "Single serve portion.",
+    "category": "Pantry Staples",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Sugar",
+    "description": "Single serve portion.",
+    "category": "Pantry Staples",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Salt",
+    "description": "Single serve portion.",
+    "category": "Pantry Staples",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Black pepper",
+    "description": "Single serve portion.",
+    "category": "Pantry Staples",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+
+  // Individual Seasonings
+  {
+    "name": "Garlic powder",
+    "description": "Single serve portion.",
+    "category": "Individual Seasonings",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Crushed red pepper",
+    "description": "Single serve portion.",
+    "category": "Individual Seasonings",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Italian seasoning",
+    "description": "Single serve portion.",
+    "category": "Individual Seasonings",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Turmeric powder",
+    "description": "Single serve portion.",
+    "category": "Individual Seasonings",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Chili powder",
+    "description": "Single serve portion.",
+    "category": "Individual Seasonings",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Cinnamon powder",
+    "description": "Single serve portion.",
+    "category": "Individual Seasonings",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+
+  // Household & Personal Care
+  {
+    "name": "Bleach pod",
+    "description": "Single serve portion.",
+    "category": "Household & Personal Care",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Laundry detergent pod",
+    "description": "Single serve portion.",
+    "category": "Household & Personal Care",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Liquid dish detergent pod",
+    "description": "Single serve portion.",
+    "category": "Household & Personal Care",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Fabric softener sheets",
+    "description": "Single serve portion.",
+    "category": "Household & Personal Care",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "All-purpose cleaner",
+    "description": "Single serve portion.",
+    "category": "Household & Personal Care",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  },
+  {
+    "name": "Body wash spray",
+    "description": "Single serve portion.",
+    "category": "Household & Personal Care",
+    "price": 1.75,
+    "image": "placeholder.png",
+    "type": "USDA Certified Organic"
+  },
+  {
+    "name": "Toilet paper roll",
+    "description": "Single serve portion.",
+    "category": "Household & Personal Care",
+    "price": 0.75,
+    "image": "placeholder.png",
+    "type": "Globally Sourced"
+  }
+]
